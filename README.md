@@ -2,7 +2,7 @@
 
 A lightweight, responsive, and user-friendly web application that allows users to translate text seamlessly across multiple languages. Built entirely with vanilla frontend technologies and integrated with a translation API.
 
-🚀 **[Live Demo](https://adityagagra.github.io/CodeAlpha_LanguageTranslator/Project1)** 
+🚀 **[Live Demo](https://adityagagra.github.io/CodeAlpha_LanguageTranslator/Project1.html)** 
 
 ---
 
